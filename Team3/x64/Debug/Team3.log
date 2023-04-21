@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\c++\vs2022\Team3\Team3\main.cpp(154,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Team3.vcxproj -> E:\c++\vs2022\Team3\x64\Debug\Team3.exe
